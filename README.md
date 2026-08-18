@@ -23,7 +23,7 @@
 | 4 | Logistic Regression | Titanic | Acc: 1.0* | ✅ Done |
 | 5 | K-Nearest Neighbors | Titanic | Acc: 0.64 | ✅ Done |
 | 6 | Decision Tree | Titanic | Acc: 1.0 | ✅ Done |
-| 7 | Random Forest | - | - | ⏳ Pending |
+| 7 | Random Forest | Worthiness_loan | 0.74 | ✅ Done |
 | 8 | Support Vector Machine | - | - | ⏳ Pending |
 | 9 | Naive Bayes | - | - | ⏳ Pending |
 | 10 | K-Means Clustering | - | - | ⏳ Pending |

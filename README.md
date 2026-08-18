@@ -1,4 +1,4 @@
-# 🤖 My Learning Journey
+#  My Learning Journey
 
 ![ML](https://img.shields.io/badge/Machine%20Learning-50%20Models-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
@@ -11,9 +11,9 @@
 
 ---
 
-## 📅 My Progress
+##  My Progress
 
-### 🟢 Phase 1 — Sklearn (Models 1–15)
+###  Phase 1 — Sklearn (Models 1–15)
 
 | # | Model | Dataset | Score | Status |
 |---|-------|---------|-------|--------|
@@ -37,7 +37,7 @@
 
 ---
 
-### 🔥 Phase 2 — PyTorch (Models 16–30)
+###  Phase 2 — PyTorch (Models 16–30)
 
 | # | Model | Status |
 |---|-------|--------|
@@ -59,7 +59,7 @@
 
 ---
 
-### 💀 Phase 3 — Hard Models (Models 31–45)
+###  Phase 3 — Hard Models (Models 31–45)
 
 | # | Model | Status |
 |---|-------|--------|
@@ -81,7 +81,7 @@
 
 ---
 
-### 🏆 Phase 4 — Kaggle Projects (46–50)
+###  Phase 4 — Kaggle Projects (46–50)
 
 | # | Project | Status |
 |---|---------|--------|
@@ -93,7 +93,7 @@
 
 ---
 
-## 🗂️ Folder Structure
+##  Folder Structure
 
 ```
 50-ml-models/
@@ -123,7 +123,7 @@
 
 ---
 
-## 🧠 Key Learnings So Far
+##  Key Learnings So Far
 
 - **Linear Regression** → More features = better score (0.60 → 0.70+)
 - **Ridge vs Lasso** → Lasso removes weak features automatically
@@ -132,7 +132,7 @@
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Python 3.x
 - Google Colab
@@ -144,17 +144,8 @@
 
 ---
 
-## 📌 Rules I Follow
 
-- ✅ Write every line of code myself
-- ✅ Understand before moving on
-- ✅ One model at a time
-- ❌ No copy-paste from internet
-- ❌ No AI generated code
-
----
-
-## 👨‍💻 About
+##  About
 
 Self-taught ML learner building real skills one model at a time.  
 Started: August 2026 |

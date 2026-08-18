@@ -22,7 +22,7 @@
 | 3 | Ridge & Lasso Regression | House Prices | R²: 0.60 | ✅ Done |
 | 4 | Logistic Regression | Titanic | Acc: 1.0* | ✅ Done |
 | 5 | K-Nearest Neighbors | Titanic | Acc: 0.64 | ✅ Done |
-| 6 | Decision Tree | Titanic | - | 🔄 In Progress |
+| 6 | Decision Tree | Titanic | Acc: 1.0 | ✅ Done |
 | 7 | Random Forest | - | - | ⏳ Pending |
 | 8 | Support Vector Machine | - | - | ⏳ Pending |
 | 9 | Naive Bayes | - | - | ⏳ Pending |

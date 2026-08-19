@@ -28,7 +28,7 @@
 | 9 | Naive Bayes | Email Spam Detection | Acc: 0.98 | ✅ Done |
 | 10 | K-Means Clustering | Mall Customers	 | K=5 | ✅ Done |
 | 11 | DBSCAN Clustering | Mall_Customers | Clusters: 7, Noise: ~40 pts | ✅ Done |
-| 12 | PCA | - | - | ⏳ Pending |
+| 12 | PCA | breast_cancer | 0.97 vs 0.99 | ⏳ Pending |
 | 13 | Gradient Boosting | - | - | ⏳ Pending |
 | 14 | XGBoost | - | - | ⏳ Pending |
 | 15 | Pipeline + Cross Validation | - | - | ⏳ Pending |

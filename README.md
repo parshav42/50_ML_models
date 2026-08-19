@@ -26,7 +26,7 @@
 | 7 | Random Forest | Worthiness_loan | Acc: 0.74 | ✅ Done |
 | 8 | Support Vector Machine | Worthiness_loan | Acc: 0.78 | ✅ Done |
 | 9 | Naive Bayes | Email Spam Detection | Acc: 0.98 | ✅ Done |
-| 10 | K-Means Clustering | - | - | ⏳ Pending |
+| 10 | K-Means Clustering | Mall Customers	 | K=5 | ⏳ Pending |
 | 11 | DBSCAN Clustering | - | - | ⏳ Pending |
 | 12 | PCA | - | - | ⏳ Pending |
 | 13 | Gradient Boosting | - | - | ⏳ Pending |

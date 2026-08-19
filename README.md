@@ -24,7 +24,7 @@
 | 5 | K-Nearest Neighbors | Titanic | Acc: 0.64 | ✅ Done |
 | 6 | Decision Tree | Titanic | Acc: 1.0 | ✅ Done |
 | 7 | Random Forest | Worthiness_loan | Acc: 0.74 | ✅ Done |
-| 8 | Support Vector Machine | - | - | ⏳ Pending |
+| 8 | Support Vector Machine | Worthiness_loan | Acc: 0.78 | ✅ Done |
 | 9 | Naive Bayes | - | - | ⏳ Pending |
 | 10 | K-Means Clustering | - | - | ⏳ Pending |
 | 11 | DBSCAN Clustering | - | - | ⏳ Pending |

@@ -27,7 +27,7 @@
 | 8 | Support Vector Machine | Worthiness_loan | Acc: 0.78 | ✅ Done |
 | 9 | Naive Bayes | Email Spam Detection | Acc: 0.98 | ✅ Done |
 | 10 | K-Means Clustering | Mall Customers	 | K=5 | ✅ Done |
-| 11 | DBSCAN Clustering | Mall_Customers | - | ✅ Done |
+| 11 | DBSCAN Clustering | Mall_Customers | Clusters: 7, Noise: ~40 pts | ✅ Done |
 | 12 | PCA | - | - | ⏳ Pending |
 | 13 | Gradient Boosting | - | - | ⏳ Pending |
 | 14 | XGBoost | - | - | ⏳ Pending |

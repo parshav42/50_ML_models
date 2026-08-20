@@ -31,9 +31,8 @@
 | 12 | PCA | breast_cancer | 0.97 vs 0.99 | ✅ Done |
 | 13 | Gradient Boosting | Worthiness_loan | ACC: 0.78 | ✅ Done |
 | 14 | XGBoost | Worthiness_loan | Acc:0.73 | ✅ Done |
-| 15 | Pipeline + Cross Validation | - | - | ⏳ Pending |
+| 15 | Pipeline + Cross Validation | Worthiness_loan | Acc:0.78 | ✅ Done |
 
-> *Model 4 score suspicious — data leakage suspected, to be fixed
 
 ---
 

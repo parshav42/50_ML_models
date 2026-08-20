@@ -29,8 +29,8 @@
 | 10 | K-Means Clustering | Mall Customers	 | K=5 | ✅ Done |
 | 11 | DBSCAN Clustering | Mall_Customers | Clusters: 7, Noise: ~40 pts | ✅ Done |
 | 12 | PCA | breast_cancer | 0.97 vs 0.99 | ✅ Done |
-| 13 | Gradient Boosting | - | - | ⏳ Pending |
-| 14 | XGBoost | - | - | ⏳ Pending |
+| 13 | Gradient Boosting | Worthiness_loan | ACC: 0.78 | ✅ Done |
+| 14 | XGBoost | Worthiness_loan | Acc:0.73 | ✅ Done |
 | 15 | Pipeline + Cross Validation | - | - | ⏳ Pending |
 
 > *Model 4 score suspicious — data leakage suspected, to be fixed

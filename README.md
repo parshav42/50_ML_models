@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Python](https://img.shields.io/badge/Python-3.x-green)
 ![Sklearn](https://img.shields.io/badge/Sklearn-✓-orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-Coming-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-✓-blue)
 
 > **Goal:** Build 50 ML models from scratch — Sklearn → PyTorch → Advanced → Projects  
 > **Rules:** No copy-paste. Every line written by me. Learn by doing.

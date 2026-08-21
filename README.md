@@ -40,8 +40,8 @@
 
 | # | Model | Status |
 |---|-------|--------|
-| 16 | PyTorch Basics — Tensors & Autograd | ⏳ Pending |
-| 17 | Linear Regression in PyTorch | ⏳ Pending |
+| 16 | PyTorch Basics — Tensors & Autograd | ✅ Done |
+| 17 | Linear Regression in PyTorch | ✅ Done |
 | 18 | Logistic Regression in PyTorch | ⏳ Pending |
 | 19 | First Neural Network (1 hidden layer) | ⏳ Pending |
 | 20 | Deep Neural Network (3+ layers) | ⏳ Pending |

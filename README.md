@@ -46,7 +46,7 @@
 | 19 | First Neural Network (1 hidden layer) | ✅ Done  |
 | 20 | Deep Neural Network (3+ layers) | ✅ Done |
 | 21 | Activation Functions | ✅ Done |
-| 22 | Dropout & Batch Normalization | ⏳ Pending |
+| 22 | Dropout & Batch Normalization | ✅ Done |
 | 23 | CNN — MNIST | ⏳ Pending |
 | 24 | CNN — CIFAR-10 | ⏳ Pending |
 | 25 | Transfer Learning (ResNet) | ⏳ Pending |

@@ -44,8 +44,8 @@
 | 17 | Linear Regression in PyTorch | ✅ Done |
 | 18 | Logistic Regression in PyTorch | ✅ Done |
 | 19 | First Neural Network (1 hidden layer) | ✅ Done  |
-| 20 | Deep Neural Network (3+ layers) | ⏳ Pending |
-| 21 | Activation Functions | ⏳ Pending |
+| 20 | Deep Neural Network (3+ layers) | ✅ Done |
+| 21 | Activation Functions | ✅ Done |
 | 22 | Dropout & Batch Normalization | ⏳ Pending |
 | 23 | CNN — MNIST | ⏳ Pending |
 | 24 | CNN — CIFAR-10 | ⏳ Pending |

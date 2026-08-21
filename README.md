@@ -42,8 +42,8 @@
 |---|-------|--------|
 | 16 | PyTorch Basics — Tensors & Autograd | ✅ Done |
 | 17 | Linear Regression in PyTorch | ✅ Done |
-| 18 | Logistic Regression in PyTorch | ⏳ Pending |
-| 19 | First Neural Network (1 hidden layer) | ⏳ Pending |
+| 18 | Logistic Regression in PyTorch | ✅ Done |
+| 19 | First Neural Network (1 hidden layer) | ✅ Done  |
 | 20 | Deep Neural Network (3+ layers) | ⏳ Pending |
 | 21 | Activation Functions | ⏳ Pending |
 | 22 | Dropout & Batch Normalization | ⏳ Pending |

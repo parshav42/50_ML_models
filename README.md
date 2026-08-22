@@ -47,7 +47,7 @@
 | 20 | Deep Neural Network (3+ layers) | ✅ Done |
 | 21 | Activation Functions | ✅ Done |
 | 22 | Dropout & Batch Normalization | ✅ Done |
-| 23 | CNN — MNIST | ⏳ Pending |
+| 23 | CNN — MNIST | ✅ Done |
 | 24 | CNN — CIFAR-10 | ⏳ Pending |
 | 25 | Transfer Learning (ResNet) | ⏳ Pending |
 | 26 | RNN | ⏳ Pending |

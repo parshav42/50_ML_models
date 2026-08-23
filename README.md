@@ -48,7 +48,7 @@
 | 21 | Activation Functions | ✅ Done |
 | 22 | Dropout & Batch Normalization | ✅ Done |
 | 23 | CNN — MNIST | ✅ Done |
-| 24 | CNN — CIFAR-10 | ⏳ Pending |
+| 24 | CNN — CIFAR-10 | ✅ Done  |
 | 25 | Transfer Learning (ResNet) | ⏳ Pending |
 | 26 | RNN | ⏳ Pending |
 | 27 | LSTM | ⏳ Pending |

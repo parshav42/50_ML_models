@@ -49,7 +49,7 @@
 | 22 | Dropout & Batch Normalization | ✅ Done |
 | 23 | CNN — MNIST | ✅ Done |
 | 24 | CNN — CIFAR-10 | ✅ Done  |
-| 25 | Transfer Learning (ResNet) | ⏳ Pending |
+| 25 | Transfer Learning (ResNet) | ✅ Done |
 | 26 | RNN | ⏳ Pending |
 | 27 | LSTM | ⏳ Pending |
 | 28 | GRU | ⏳ Pending |

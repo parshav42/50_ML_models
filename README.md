@@ -84,7 +84,7 @@
 
 | # | Project | Status |
 |---|---------|--------|
-| 46 | House Price Prediction | ⏳ Pending |
+| 46 | Customer_Churn | ✅ Done |
 | 47 | Titanic Survival | ⏳ Pending |
 | 48 | Image Classification | ⏳ Pending |
 | 49 | Sentiment Analysis | ⏳ Pending |

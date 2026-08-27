@@ -62,7 +62,7 @@
 
 | # | Model | Status |
 |---|-------|--------|
-| 31 | LightGBM | ⏳ Pending |
+| 31 | labelsugrcane | ✅ Done |
 | 32 | CatBoost | ⏳ Pending |
 | 33 | Stacking Ensemble | ⏳ Pending |
 | 34 | Voting Ensemble | ⏳ Pending |

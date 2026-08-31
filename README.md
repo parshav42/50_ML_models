@@ -86,7 +86,7 @@
 |---|---------|--------|
 | 46 | Customer_Churn | ✅ Done |
 | 47 | croprecomendation | ✅ Done |
-| 48 | Image Classification | ⏳ Pending |
+| 48 | Sugarcane-Disease-Detection-System | ✅ Done |
 | 49 | Sentiment Analysis | ⏳ Pending |
 | 50 | Own Kaggle Competition | ⏳ Pending |
 
